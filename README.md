@@ -5,3 +5,6 @@ Wehcome to my GitHub!
 This is the project of how to interface Arduino with Raspberry Pi.  
 * To see the operating step, please clink the link:https://sites.google.com/view/haojie-xu/project  
 * See the code click "coding_content"  
+### Authors  
+* Haojie xu
+* Personal site "https://sites.google.com/view/haojie-xu/weekly-report"
